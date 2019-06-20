@@ -1,4 +1,4 @@
-# To finf the lowest numberRef from the list
+# To find the lowest numberRef from the list
 
 listA = [9,7,4,5,14,65,85,45,6,2,-1]
 
