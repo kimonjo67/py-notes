@@ -25,4 +25,10 @@ maximumNum = max(listA)
 print("smallest number on list: ", minimumNum)
 print("largest number on list: " , maximumNum)
 
+# Also you could use sorting
+listA.sort()
+print("Smallest using sort: ", *listA[:100])
+print(listA[:1])
+
+
 
