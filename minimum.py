@@ -17,3 +17,12 @@ while counter<len(listA):
     counter = counter + 1
     print("Counter is now at: " , counter)
 print("Smallest numberRef in the list is : ", numberRef)
+
+## Lazier way to find the min
+minimumNum = min(listA)
+maximumNum = max(listA)
+
+print("smallest number on list: ", minimumNum)
+print("largest number on list: " , maximumNum)
+
+
