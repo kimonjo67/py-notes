@@ -1,7 +1,4 @@
 '''
-Samuel Mwangi
-Assignment 7
-
 '''
 
 def tempMeasurements():
