@@ -29,6 +29,3 @@ print("largest number on list: " , maximumNum)
 listA.sort()
 print("Smallest using sort: ", *listA[:100])
 print(listA[:1])
-
-
-
