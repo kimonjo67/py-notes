@@ -1,5 +1,4 @@
 '''
-Samuel Mwangi
 
 Library book and member management program
 
