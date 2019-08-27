@@ -1,9 +1,3 @@
-'''
-Samuel Mwangi
-Assignment 7
-
-'''
-
 def tempMeasurements():
     total_temperature = 0
     count_temperature = 0
