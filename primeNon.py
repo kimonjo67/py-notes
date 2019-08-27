@@ -20,8 +20,8 @@ print("To close, type -1")
 def prime():    
     num = int(input("please enter a number: "))
     ## PRIME NUMBERS
-    end = 0
-    while end != -1:
+    end = "n"
+    while end != "y":
         if num > 1:
             # loop through the number in the set
             for num in range(2,num):
@@ -35,8 +35,8 @@ def prime():
         else:
             print(num, "NOT a prime")
 
-        end = int(input("Enter -1 to end or 0 to continue: "))
-        if end == 0:
+        end = input("End? y or n: ")
+        if end != "y":
             return prime()
 
 prime()
