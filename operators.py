@@ -16,4 +16,3 @@ number2 = int(input("Please enter number: "))
 stringV = "Hello"
 
 operation(number1, number2, stringV)
-
